@@ -22,7 +22,7 @@ To install a specific CLI version:
 ```yaml
 - uses: unmeshed/setup-unmeshed@v1
   with:
-    version: '1.4.7'
+    version: '1.4.8'
 ```
 <!-- cli-version-example:end -->
 
